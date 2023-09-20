@@ -1,6 +1,6 @@
 # AgroGuard Mobile App Prototype Submission for Smart India Hackathon 2023 Round 2.
 
-Problem Statement(1401):- App-Based Solution to identufy and solve disease in plants/crop. Farmers can upload the photographs of disease affected plants/crops and solution may be provided by experts/scientists linked to the app.
+Problem Statement(1401):- App-Based Solution to identify and solve disease in plants/crop. Farmers can upload the photographs of disease affected plants/crops and solution may be provided by experts/scientists linked to the app.
 
 # Login Page ->
 ![Screenshot 2023-09-19 210248](https://github.com/AsCress/SIH-R2/assets/125425881/7a55863a-e701-4e7c-9226-54c2ebe9938a)
